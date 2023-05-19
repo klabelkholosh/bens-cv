@@ -12,3 +12,5 @@ For both of these I was also the NFT artist, and developed the art assets/design
 The 1st project can be viewed at https://www.6clocks.wtf/, the second at https://theta-minting.vercel.app/ (although mint/claim not live yet for 2nd project). <br />
  <br />
 I also attempt to create generative art NFTs under the moniker 'klabelkholosh', my twitter here is https://twitter.com/klabby_art/, and art portfolio site is at https://www.klabby.art/ <br />
+<br />
+Also NFT/Web3 related, here's a React-based NFT Gallery site I did: https://nft-list-seven.vercel.app/
